@@ -1,3 +1,3 @@
 # Open Parking Management Systems
 
-Parker is a web-based parking detection and monitoring application built with computer vision technologies like TensorFlow.js and YOLOv7. It runs entirely in the browser and is ideal for real-time parking space monitoring.
+Open Quadruped is an open-source 3D-printed quadrupedal robot. Intuitive gait generation through 12-DOF Bezier Curves. Full 6-axis body pose manipulation. Custom 3DOF Leg Inverse Kinematics Model accounting for offsets. Parker is a web-based parking detection and monitoring application built with computer vision technologies like TensorFlow.js and YOLOv7. It runs entirely in the browser and is ideal for real-time parking space monitoring.
